@@ -13,4 +13,4 @@ the circuitry required for the Buck and Boost converters to provide the required
 * If possible, voltage and current sensing circuitry.
 
 
- ![alt text](https://github.com/dannytran3214/ECE499-PCB-Design-Assembly-and-Manufacturing-of-a-Power-Distribution-Board/blob/main/Project_Poster.pdf)
+ ![alt text](https://github.com/dannytran3214/ECE499-PCB-Design-Assembly-and-Manufacturing-of-a-Power-Distribution-Board/blob/main/poster.png)
